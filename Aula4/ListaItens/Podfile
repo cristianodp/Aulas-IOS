@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ListaItens' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ListaItens
+
+    pod 'Alamofire', '~> 4.0'
+    pod 'AlamofireImage', '~> 3.1'
+
+    pod 'SwiftyJSON', git: 'https://github.com/BaiduHiDeviOS/SwiftyJSON.git', branch: 'swift3'
+    
+    pod 'SQLite.swift'
+
+
+end

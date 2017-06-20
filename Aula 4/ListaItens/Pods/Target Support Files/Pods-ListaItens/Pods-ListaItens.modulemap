@@ -1,0 +1,6 @@
+framework module Pods_ListaItens {
+  umbrella header "Pods-ListaItens-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParametrosEntreTelas/ViewController.swift"
+            timestampString = "517980376.176549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParametrosEntreTelas/ViewController2.swift"
+            timestampString = "517980517.543309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParametrosEntreTelas.ViewController2.viewDidLoad () -&gt; ()"
+                  moduleName = "ParametrosEntreTelas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiano/Documents/Aulas-IOS/Aula%204/ParametrosEntreTelas/ParametrosEntreTelas/ViewController2.swift"
+                  timestampString = "517980609.373962"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParametrosEntreTelas.ViewController2.viewDidLoad () -&gt; ()"
+                  moduleName = "ParametrosEntreTelas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiano/Documents/Aulas-IOS/Aula%204/ParametrosEntreTelas/ParametrosEntreTelas/ViewController2.swift"
+                  timestampString = "517980609.378498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParametrosEntreTelas/ViewController2.swift"
+            timestampString = "517980529.207824"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParametrosEntreTelas.ViewController2.viewDidLoad () -&gt; ()"
+                  moduleName = "ParametrosEntreTelas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiano/Documents/Aulas-IOS/Aula%204/ParametrosEntreTelas/ParametrosEntreTelas/ViewController2.swift"
+                  timestampString = "517980560.112372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParametrosEntreTelas.ViewController2.viewDidLoad () -&gt; ()"
+                  moduleName = "ParametrosEntreTelas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiano/Documents/Aulas-IOS/Aula%204/ParametrosEntreTelas/ParametrosEntreTelas/ViewController2.swift"
+                  timestampString = "517980560.116362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

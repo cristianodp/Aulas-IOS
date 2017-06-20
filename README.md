@@ -1,2 +1,2 @@
 # Aulas-IOS
-Exemplos práticos feitos nas aulas
+Exemplos práticos feitos nas aulas de iOS
